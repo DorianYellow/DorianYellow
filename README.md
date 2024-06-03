@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🏃‍♂️ I’m currently learning `Machine Learning`, `Deep Learning`
+- 🏃‍♂️ I’m currently learning `Machine Learning` and `Deep Learning`
 - 👨‍🎓 I majored in Biosystems Engineering and Electrical & Computer Engineering
-- 😊 I studied intellectual property in depth (such as patent law)
+- 😊 I studied intellectual property(particularly patent law) in depth
 
 ### What I Like
 
