@@ -3,12 +3,12 @@
 ### About Me
 
 - 🏃‍♂️ I’m currently learning `Machine Learning` and `Deep Learning`
-- 👨‍🎓 I majored in Biosystems Engineering and Electrical & Computer Engineering
-- 😊 I studied intellectual property(particularly patent law) in depth
+- 👨‍🎓 I majored in `Biosystems Engineering` and `Electrical & Computer Engineering`
+- 😊 I studied `intellectual property`(particularly patent law) in depth
 
 ### What I Like
 
-- 💛 Math : especially Number Theory
+- 💛 Math : especially Number theory
 - 🎵 Music : especially piano
 - 🌱 Plant : I'm growing dandelion now
 
