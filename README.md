@@ -4,18 +4,25 @@
 
 - 🏃‍♂️ I’m currently learning `Machine Learning` and `Deep Learning`
 - 👨‍🎓 I majored in `Biosystems Engineering` and `Electrical & Computer Engineering`
-- 😊 I studied `intellectual property`(particularly patent law) in depth
+- 😊 I studied `Intellectual Property` in depth
 
 ### What I Like
 
 - 💛 Math : especially Number theory
-- 🎵 Music : especially piano
+- 🎵 Music : various bands, piano, etc
 - 🌱 Plant : I'm growing dandelion now
+
+### My Cherished Records
+
+- 🥇 Bronze Medalist in the 2nd Round of the KMO (Korea Mathmatics Olympiad)
+- 🥈 Ranked 4th Nationwide (top 0.18%) in the IPAT (Intellectual Property Ability Test)
+- updating...
 
 ### Experience
 
 - 🎓 Studied at Seoul National University, earned two BS degrees (2012.3 ~ 2023.2)
-- 🚀 Naver boostcamp AI Tech 6th : Computer Vision track (2023.11 ~ 2024.4)
+- 🚀 Naver boostcamp AI Tech 6th : Computer Vision Track (2023.11 ~ 2024.4)
+- 🌟 Google ML bootcamp 2024 (2024.7 ~ )
 
 ### Etc
 #### GitHub Stats
