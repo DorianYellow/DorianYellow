@@ -31,7 +31,7 @@
 
 #### Problem Solving
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="154"> <img src="http://mazandi.herokuapp.com/api?handle=dhtlq777&theme=warm" height="154">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="154"> <img src="http://mazandi.herokuapp.com/api?handle=dhtlq777&theme=dark" height="154">
 
 
 <!--
