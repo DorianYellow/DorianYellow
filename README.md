@@ -10,7 +10,7 @@
 
 #### Stats
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="140"> <img src="https://github-readme-stats.vercel.app/api?username=DorianYellow&count_private=true&show_icons=true&theme=nord&hide_border=true" height="140"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianYellow&layout=compact&theme=nord&hide_border=true" height="140">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="100"> <img src="https://github-readme-stats.vercel.app/api?username=DorianYellow&count_private=true&show_icons=true&theme=nord&hide_border=true" height="100"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianYellow&layout=compact&theme=nord&hide_border=true" height="100">
 
 
 <!--
