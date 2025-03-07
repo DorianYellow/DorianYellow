@@ -1,14 +1,15 @@
 # Hi there 👋
 
 
-#### My Cherished Records
+### My Cherished Records
 
-- 🥇 Bronze Medalist in the 2nd Round of the KMO (Korea Mathmatics Olympiad)
-- 🥈 Ranked 4th Nationwide (top 0.18%) in the IPAT (Intellectual Property Ability Test)
-- 🥉 Achieved 365 consecutive days of problem solving on solved.ac (25.2.19 - ongoing)
+- 🥇 ***Bronze Medalist*** in the 2nd Round of the Korean Mathematical Olympiad
+- 🥈 Ranked ***4th Nationwide*** (top 0.18%) in the IPAT
+- 🥉 Achieved ***365 consecutive days*** of problem solving on solved.ac (25.2.19 - ongoing)
+- ⭐ Nationally Recognized ***Origami Master***
 
 
-#### Stats
+### Stats
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="120"> <img src="https://github-readme-stats.vercel.app/api?username=DorianYellow&count_private=true&show_icons=true&theme=nord&hide_border=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianYellow&layout=compact&theme=nord&hide_border=true" height="120">
 
