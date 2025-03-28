@@ -5,7 +5,7 @@
 
 - 🥇 ***Bronze Medalist*** in the 2nd Round of the Korean Mathematical Olympiad
 - 🥈 Ranked ***4th Nationwide*** (top 0.18%) in the IPAT
-- 🥉 Achieved ***365 consecutive days*** of problem solving on solved.ac (25.2.19 - ongoing)
+- 🥉 Achieved ***400 consecutive days*** of problem solving on solved.ac (25.3.26 - ongoing)
 - 😆 Nationally Recognized ***Origami Master***
 
 
