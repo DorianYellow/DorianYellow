@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-### My Cherished Records
+### My Cherished Achievements
 
 - 🥇 ***Bronze Medalist*** in the 2nd Round of the Korean Mathematical Olympiad
 - 🥈 Ranked ***4th Nationwide*** (top 0.18%) in the IPAT
