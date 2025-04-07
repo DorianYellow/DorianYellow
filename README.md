@@ -3,13 +3,13 @@
 
 ### My Cherished Achievements
 
-- 🥇 ***Bronze Medalist*** in the 2nd Round of the Korean Mathematical Olympiad
-- 🥈 Ranked ***4th Nationwide*** (top 0.18%) in the IPAT
-- 🥉 Achieved ***400 consecutive days*** of problem solving on solved.ac (25.3.26 - ongoing)
-- 😆 Nationally Recognized ***Origami Master***
+- 🏅 Nationally Recognized ***Origami Master***
+- 🥇 Achieved ***400 consecutive days*** of problem solving on solved.ac (25.3.26 - ongoing)
+- 🥈 ***Bronze Medalist*** in the 2nd Round of the Korean Mathematical Olympiad
+- 🥉 Ranked ***4th Nationwide*** (top 0.18%) in the IPAT
 
 
-### Stats
+### My Stats
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtlq777" height="120"> <img src="https://github-readme-stats.vercel.app/api?username=DorianYellow&count_private=true&show_icons=true&theme=nord&hide_border=true" height="120"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianYellow&layout=compact&theme=nord&hide_border=true" height="120">
 
